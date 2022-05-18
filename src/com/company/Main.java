@@ -3,7 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("hello, QA.GURU");
+        System.out.println("hello, qa.guru");
         // write your code here
     }
 }
