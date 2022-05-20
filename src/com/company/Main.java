@@ -9,6 +9,6 @@ public class Main {
         // write your code here
     }
     public static void another() {
-    System.out.println("hello, qa.guru again!");
+    System.out.println("hello, qa.guru again!!!!!!!");
     }
 }
