@@ -7,4 +7,7 @@ public class Main {
         System.out.println("another line");
         // write your code here
     }
+    public static void another() {
+    System.out.println("hello, qa.guru again!");
+    }
 }
